@@ -1,0 +1,16 @@
+Atualizar as bibliotecas
+
+usar o comando: 
+
+pip freeze (Vai listar as bibliotecas)
+
+A primeira é a do robot framework -
+Entrar no site e fazer o download da ultima atualização
+
+Site pypi.org (para verificar somente)
+
+Utilizar o comando no prompt
+
+pip install -U robotframework
+
+

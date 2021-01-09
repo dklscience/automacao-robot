@@ -1,0 +1,3 @@
+Baixar o gecko driver para firefox e o chomedriver para (serio)...
+
+salvar na pasta python em scripts e descompacta-los
